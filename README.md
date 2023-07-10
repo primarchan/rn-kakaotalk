@@ -5,3 +5,8 @@
 - `npx create-expo-app {프로젝트명}`
 - `yarn add react-native-iphone-x-helper`
 - `yarn add react-native-safe-area-context`
+- `yarn add styled-components`
+
+## 프로젝트 결과물
+
+![result-screenshot](./result-screenshot.png)
