@@ -9,4 +9,6 @@
 
 ## 프로젝트 결과물
 
-![result-screenshot](./result-screenshot.png)
+<p align="center">
+<img src="./result-screenshot.png" width="50%" height="50%"/>
+</p>
